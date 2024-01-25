@@ -46,7 +46,7 @@ AuctionHouseBot.DEBUG_FILTERS = 0
 AuctionHouseBot.EnableSeller = 1
 AuctionHouseBot.EnableBuyer = 1
 AuctionHouseBot.UseBuyPriceForSeller = 0
-AuctionHouseBot.UseBuyPriceForBuyer = 1
+AuctionHouseBot.UseBuyPriceForBuyer = 0
 AuctionHouseBot.Account = 5
 AuctionHouseBot.GUID = 6
 AuctionHouseBot.ItemsPerCycle = 2000
@@ -173,7 +173,7 @@ AuctionHouseBot.DisableMounts = 0
 #
 ###############################################################################
 
-AuctionHouseBot.DisableWarriorItems = 1
+AuctionHouseBot.DisableWarriorItems = 0
 AuctionHouseBot.DisablePaladinItems = 0
 AuctionHouseBot.DisableHunterItems = 0
 AuctionHouseBot.DisableRogueItems = 0
@@ -181,7 +181,7 @@ AuctionHouseBot.DisablePriestItems = 0
 AuctionHouseBot.DisableDKItems = 1
 AuctionHouseBot.DisableShamanItems = 0
 AuctionHouseBot.DisableMageItems = 0
-AuctionHouseBot.DisableWarlockItems = 1
+AuctionHouseBot.DisableWarlockItems = 0
 AuctionHouseBot.DisableUnusedClassItems = 1
 AuctionHouseBot.DisableDruidItems = 0
 

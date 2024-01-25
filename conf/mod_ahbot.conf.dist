@@ -43,13 +43,13 @@
 
 AuctionHouseBot.DEBUG = 0
 AuctionHouseBot.DEBUG_FILTERS = 0
-AuctionHouseBot.EnableSeller = 0
-AuctionHouseBot.EnableBuyer = 0
+AuctionHouseBot.EnableSeller = 1
+AuctionHouseBot.EnableBuyer = 1
 AuctionHouseBot.UseBuyPriceForSeller = 0
-AuctionHouseBot.UseBuyPriceForBuyer = 0
-AuctionHouseBot.Account = 0
-AuctionHouseBot.GUID = 0
-AuctionHouseBot.ItemsPerCycle = 200
+AuctionHouseBot.UseBuyPriceForBuyer = 1
+AuctionHouseBot.Account = 5
+AuctionHouseBot.GUID = 6
+AuctionHouseBot.ItemsPerCycle = 2000
 
 ###############################################################################
 # AUCTION HOUSE BOT FILTERS PART 1
@@ -144,22 +144,22 @@ AuctionHouseBot.VendorItems = 0
 AuctionHouseBot.VendorTradeGoods = 0
 AuctionHouseBot.LootItems = 1
 AuctionHouseBot.LootTradeGoods = 1
-AuctionHouseBot.OtherItems = 0
-AuctionHouseBot.OtherTradeGoods = 0
+AuctionHouseBot.OtherItems = 1
+AuctionHouseBot.OtherTradeGoods = 1
 AuctionHouseBot.No_Bind = 1
 AuctionHouseBot.Bind_When_Picked_Up = 0
 AuctionHouseBot.Bind_When_Equipped = 1
 AuctionHouseBot.Bind_When_Use = 1
 AuctionHouseBot.Bind_Quest_Item = 0
 AuctionHouseBot.DisablePermEnchant = 0
-AuctionHouseBot.DisableConjured = 0
+AuctionHouseBot.DisableConjured = 1
 AuctionHouseBot.DisableGems = 0
-AuctionHouseBot.DisableMoney = 0
-AuctionHouseBot.DisableMoneyLoot = 0
-AuctionHouseBot.DisableLootable = 0
-AuctionHouseBot.DisableKeys = 0
-AuctionHouseBot.DisableDuration = 0
-AuctionHouseBot.DisableBOP_Or_Quest_NoReqLevel = 0
+AuctionHouseBot.DisableMoney = 1
+AuctionHouseBot.DisableMoneyLoot = 1
+AuctionHouseBot.DisableLootable = 1
+AuctionHouseBot.DisableKeys = 1
+AuctionHouseBot.DisableDuration = 1
+AuctionHouseBot.DisableBOP_Or_Quest_NoReqLevel = 1
 AuctionHouseBot.DisablePets = 0
 AuctionHouseBot.DisableMounts = 0
 
@@ -173,16 +173,16 @@ AuctionHouseBot.DisableMounts = 0
 #
 ###############################################################################
 
-AuctionHouseBot.DisableWarriorItems = 0
+AuctionHouseBot.DisableWarriorItems = 1
 AuctionHouseBot.DisablePaladinItems = 0
 AuctionHouseBot.DisableHunterItems = 0
 AuctionHouseBot.DisableRogueItems = 0
 AuctionHouseBot.DisablePriestItems = 0
-AuctionHouseBot.DisableDKItems = 0
+AuctionHouseBot.DisableDKItems = 1
 AuctionHouseBot.DisableShamanItems = 0
 AuctionHouseBot.DisableMageItems = 0
-AuctionHouseBot.DisableWarlockItems = 0
-AuctionHouseBot.DisableUnusedClassItems = 0
+AuctionHouseBot.DisableWarlockItems = 1
+AuctionHouseBot.DisableUnusedClassItems = 1
 AuctionHouseBot.DisableDruidItems = 0
 
 ###############################################################################
@@ -259,18 +259,18 @@ AuctionHouseBot.DisableDruidItems = 0
 ###############################################################################
 
 AuctionHouseBot.DisableItemsBelowLevel = 0
-AuctionHouseBot.DisableItemsAboveLevel = 0
+AuctionHouseBot.DisableItemsAboveLevel = 164
 AuctionHouseBot.DisableTGsBelowLevel = 0
-AuctionHouseBot.DisableTGsAboveLevel = 0
+AuctionHouseBot.DisableTGsAboveLevel = 75
 AuctionHouseBot.DisableItemsBelowGUID = 0
 AuctionHouseBot.DisableItemsAboveGUID = 0
 AuctionHouseBot.DisableTGsBelowGUID = 0
 AuctionHouseBot.DisableTGsAboveGUID = 0
 AuctionHouseBot.DisableItemsBelowReqLevel = 0
-AuctionHouseBot.DisableItemsAboveReqLevel = 0
+AuctionHouseBot.DisableItemsAboveReqLevel = 70
 AuctionHouseBot.DisableTGsBelowReqLevel = 0
-AuctionHouseBot.DisableTGsAboveReqLevel = 0
+AuctionHouseBot.DisableTGsAboveReqLevel = 70
 AuctionHouseBot.DisableItemsBelowReqSkillRank = 0
-AuctionHouseBot.DisableItemsAboveReqSkillRank = 0
+AuctionHouseBot.DisableItemsAboveReqSkillRank = 375
 AuctionHouseBot.DisableTGsBelowReqSkillRank = 0
-AuctionHouseBot.DisableTGsAboveReqSkillRank = 0
+AuctionHouseBot.DisableTGsAboveReqSkillRank = 375

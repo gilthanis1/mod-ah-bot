@@ -259,18 +259,18 @@ AuctionHouseBot.DisableDruidItems = 0
 ###############################################################################
 
 AuctionHouseBot.DisableItemsBelowLevel = 0
-AuctionHouseBot.DisableItemsAboveLevel = 164
+AuctionHouseBot.DisableItemsAboveLevel = 0
 AuctionHouseBot.DisableTGsBelowLevel = 0
-AuctionHouseBot.DisableTGsAboveLevel = 75
+AuctionHouseBot.DisableTGsAboveLevel = 0
 AuctionHouseBot.DisableItemsBelowGUID = 0
 AuctionHouseBot.DisableItemsAboveGUID = 0
 AuctionHouseBot.DisableTGsBelowGUID = 0
 AuctionHouseBot.DisableTGsAboveGUID = 0
-AuctionHouseBot.DisableItemsBelowReqLevel = 0
-AuctionHouseBot.DisableItemsAboveReqLevel = 70
+AuctionHouseBot.DisableItemsBelowReqLevel = 60
+AuctionHouseBot.DisableItemsAboveReqLevel = 0
 AuctionHouseBot.DisableTGsBelowReqLevel = 0
-AuctionHouseBot.DisableTGsAboveReqLevel = 70
+AuctionHouseBot.DisableTGsAboveReqLevel = 0
 AuctionHouseBot.DisableItemsBelowReqSkillRank = 0
-AuctionHouseBot.DisableItemsAboveReqSkillRank = 375
+AuctionHouseBot.DisableItemsAboveReqSkillRank = 0
 AuctionHouseBot.DisableTGsBelowReqSkillRank = 0
-AuctionHouseBot.DisableTGsAboveReqSkillRank = 375
+AuctionHouseBot.DisableTGsAboveReqSkillRank = 0

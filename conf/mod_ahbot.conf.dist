@@ -140,7 +140,7 @@ AuctionHouseBot.ItemsPerCycle = 2000
 #
 ###############################################################################
 
-AuctionHouseBot.VendorItems = 0
+AuctionHouseBot.VendorItems = 1
 AuctionHouseBot.VendorTradeGoods = 0
 AuctionHouseBot.LootItems = 1
 AuctionHouseBot.LootTradeGoods = 1
